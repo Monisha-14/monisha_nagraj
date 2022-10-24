@@ -1,1 +1,2 @@
 utility function for version 4
+this version can have new function based on new technology
