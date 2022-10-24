@@ -1,0 +1,47 @@
+-->Appetizers
+
+1.Mozzarella sticks
+
+2.Cheddar Biscuits
+
+3.Mac & cheese (with an option to add bacon)
+
+4.Pigs in a blanket
+
+5.Spinach cheese dip with chips
+
+6.Onion rings
+
+7.French fries (with an option to add cheese/ bacon)
+
+8.Baked potato (with an option to add cheese/ bacon)
+
+9.Breadsticks
+
+10.Salad
+
+-->Comfort food
+
+1.Chicken pot pie
+
+2.Mashed potatoes
+
+3.Fried chicken
+
+4.Burgers (with an option to add cheese/ bacon)
+
+5.Chicken soup
+
+6.Meatloaf
+
+7.Lasagna
+
+8.Spaghetti with meatballs
+
+9.Chicken burger
+
+10.Chicken parmesan
+
+11.Chicken Pesto
+
+12.Burger Sliders
